@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 📚 I'm student of CTU in Prague
-- 💬 I know Java, Python, C++, HTML & CSS, JS, REACT, SQL
+- 💬 I focus mainly on Java 
+- ⚡  My skills: Python, C++, C#, HTML & CSS, JS, REACT, SQL, NOSQL, Docker, Kafka, etc..
 - 📫 You can reach me here: https://www.linkedin.com/in/janbajer/
 <!--
 **JanBajer/JanBajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
